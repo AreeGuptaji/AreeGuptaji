@@ -12,14 +12,18 @@
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 
-## Mentionworthy Projects
+# Mentionworthy Projects
 - 🤑 **[FlashArb](https://github.com/AreeGuptaji/FlashArb)** - Human Verified MEV Extractor
 - 🧠 **[MindMorph](https://github.com/AreeGuptaji/MindMorph)** - Native iOS playground visually representing changes in neurochemical levels and brain health
 - 💬 **[doremon.chat](https://github.com/AreeGuptaji/doremon.chat)** - A self attempt at building perplexity
 
+## Web3 Projects & Contributions
+- **[Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) ** - Eigen Layer AVS Implementation (EVM Ecosystem)
+
 
 ## Connect
-
+- **[X](https://x.com/AreeGuptaji)
+- **[LinkedIn](https://www.linkedin.com/in/amanxnavitek/)
 
 ## Achievements & Highlights
 - Winner at Swift Student Challenge 2024
