@@ -18,12 +18,8 @@
 - 💬 **[doremon.chat](https://github.com/AreeGuptaji/doremon.chat)** - A self attempt at building perplexity
 
 ## Web3 Projects & Contributions
-- **[Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) ** - Eigen Layer AVS Implementation (EVM Ecosystem)
+- [Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) ** - Eigen Layer AVS Implementation (EVM Ecosystem)
 
-
-## Connect
-- **[X](https://x.com/AreeGuptaji)
-- **[LinkedIn](https://www.linkedin.com/in/amanxnavitek/)
 
 ## Achievements & Highlights
 - Winner at Swift Student Challenge 2024
