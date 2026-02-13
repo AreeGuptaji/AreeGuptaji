@@ -18,7 +18,8 @@
 - 💬 **[doremon.chat](https://github.com/AreeGuptaji/doremon.chat)** - A self attempt at building perplexity
 
 ## Web3 Projects & Contributions
-- [Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) ** - Eigen Layer AVS Implementation (EVM Ecosystem)
+- [Winfinity-AVS](https://github.com/AreeGuptaji/winfinity-avs) - Eigen Layer AVS Implementation (EVM Ecosystem)
+- [AetherFlow-PM](https://github.com/AreeGuptaji/AetherFlow-PM) - AI Powered onchain Prediction Market with Chainlink CRE and Gemini
 
 
 ## Achievements & Highlights
