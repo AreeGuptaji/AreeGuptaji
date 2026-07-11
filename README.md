@@ -13,9 +13,10 @@
 
 
 # Mentionworthy Projects
-- 🤑 **[FlashArb](https://github.com/AreeGuptaji/FlashArb)** - Human Verified MEV Extractor (🥇Winner at ETHGlobal New Delhi'25)
-- 🧠 **[MindMorph](https://github.com/AreeGuptaji/MindMorph)** - Native iOS playground visually representing changes in neurochemical levels and brain health (🥇Winner at Swift Student Challenge'24)
-- 💸 **[FlowVault](https://www.flowvault.live)** - Autonomous Capital Allocation Engine powered by Chainlink CRE (🥇Grand Winner at Chainlink Convergence'26)
+- 💸 **[FlowVault](https://www.flowvault.live)** - (🥇Grand Winner at Chainlink Convergence'26) Autonomous Capital Allocation Engine powered by Chainlink CRE 
+- 🤑 **[FlashArb](https://github.com/AreeGuptaji/FlashArb)** - (🥇Winner at ETHGlobal New Delhi'25) Human Verified MEV Extractor 
+- 🧠 **[MindMorph](https://github.com/AreeGuptaji/MindMorph)** - (🥇Winner at Swift Student Challenge'24) Native iOS playground visually representing changes in neurochemical levels and brain health 
+
 
 ## Web3 Projects & Learnings
 - [Decentr-Ad](https://ethglobal.com/showcase/decentrad-km702) -  Decentralized on-chain advertising network where publishers and advertisers connect directly.
