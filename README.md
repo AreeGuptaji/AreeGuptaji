@@ -29,6 +29,7 @@
 
 ## iOS & macOS Apps
 - [Trace](https://traceapp.naviteklabs.com/) - A menu bar app that lets helps solo engineers manage the context and be accountable with their progress across multiple projects
+- [ShadowCodex](https://github.com/AmanGxpta/ShadowCodex) - Shadow Codex is a single-user, local-only macOS menubar app that treats your real life as an RPG character sheet and takes it completely seriously.
 
 
 
