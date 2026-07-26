@@ -29,7 +29,7 @@
  - [MockMic](https://mockmic.naviteklabs.com) - Helps engineers turn what they know into how they speak, by practicing real interview answers and seeing exactly where they fall short.
 
 ## iOS & macOS Apps
-- [Trace](https://traceapp.naviteklabs.com/) - A menu bar app that lets helps solo engineers manage the context and be accountable with their progress across multiple projects
+- [Trace](https://justrytrace.app/) - A menu bar app that lets helps solo engineers manage the context and be accountable with their progress across multiple projects
 - [ShadowCodex](https://github.com/AmanGxpta/ShadowCodex) - Shadow Codex is a single-user, local-only macOS menubar app that treats your real life as an RPG character sheet and takes it completely seriously.
 
 
